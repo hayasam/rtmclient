@@ -152,6 +152,7 @@ public class WindowSelectionScreen extends EventHandler implements ActionListene
 		screenshotTaker = new RequirementImageManager();
 	}
 	
+	
 	private void configureMainFrameComponent()
 	{
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
