@@ -84,7 +84,7 @@ public class WindowSelectionScreen extends EventHandler implements ActionListene
 
 	private List<RequirementImageManager.WindowInfo> windowList;
 
-		private JFrame frame;
+	private JFrame frame;
 	private Container cp;
 	private EventHandler weHandler;
 	private CardLayout cl1;
