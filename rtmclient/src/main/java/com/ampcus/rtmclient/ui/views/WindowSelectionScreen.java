@@ -81,7 +81,6 @@ public class WindowSelectionScreen extends EventHandler implements ActionListene
 	private static final String INFO_MESSAGE_REQUIREMENT_SAVED="info.message.requirement.saved";
 	private static final String ERROR_MESSAGE_REQUIREMENT_TEXT_REQUIRED = "error.message.requirement.text.required";
 	private BufferedImage croppedRequirementImage;
-	
 
 	private List<RequirementImageManager.WindowInfo> windowList;
 
