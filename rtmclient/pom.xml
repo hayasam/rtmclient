@@ -13,9 +13,9 @@
 	    <spring-boot-version>1.5.9.RELEASE</spring-boot-version>
 	    <spring-context-version>5.0.6.RELEASE</spring-context-version>
 	    <spring-security-crypto-version>3.1.0.RELEASE</spring-security-crypto-version>
-	    <spring-security-core-version>4.0.4.RELEASE</spring-security-core-version>
-	    <spring-security-web-version>5.0.5.RELEASE</spring-security-web-version>
-	    <spring-security-config>3.2.0.RELEASE</spring-security-config>
+	    <spring-security-core-version>5.7.12</spring-security-core-version>
+	    <spring-security-web-version>5.8.11</spring-security-web-version>
+	    <spring-security-config>5.7.12</spring-security-config>
 	    <hibernate-version>5.2.4.Final</hibernate-version>
 	    <hibernate-jpa-version>1.0.0.Final</hibernate-jpa-version>
 	    <hibernate-commons-version>5.0.1.Final</hibernate-commons-version>
