@@ -9,13 +9,13 @@
 	    <javax-mail-version>1.4.7</javax-mail-version>
 	    <javax-activation-version>1.1</javax-activation-version>  		
   		<tomcat.version>7.0.73</tomcat.version>
-	    <spring.version>4.3.4.RELEASE</spring.version>
-	    <spring-boot-version>1.5.9.RELEASE</spring-boot-version>
+	    <spring.version>6.1.14</spring.version>
+	    <spring-boot-version>3.4.0</spring-boot-version>
 	    <spring-context-version>5.0.6.RELEASE</spring-context-version>
-	    <spring-security-crypto-version>3.1.0.RELEASE</spring-security-crypto-version>
-	    <spring-security-core-version>4.0.4.RELEASE</spring-security-core-version>
-	    <spring-security-web-version>5.0.5.RELEASE</spring-security-web-version>
-	    <spring-security-config>3.2.0.RELEASE</spring-security-config>
+	    <spring-security-crypto-version>5.7.14</spring-security-crypto-version>
+	    <spring-security-core-version>6.2.7</spring-security-core-version>
+	    <spring-security-web-version>6.2.7</spring-security-web-version>
+	    <spring-security-config>6.2.7</spring-security-config>
 	    <hibernate-version>5.2.4.Final</hibernate-version>
 	    <hibernate-jpa-version>1.0.0.Final</hibernate-jpa-version>
 	    <hibernate-commons-version>5.0.1.Final</hibernate-commons-version>
