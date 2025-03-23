@@ -12,7 +12,7 @@
 	    <spring.version>4.3.4.RELEASE</spring.version>
 	    <spring-boot-version>1.5.9.RELEASE</spring-boot-version>
 	    <spring-context-version>5.0.6.RELEASE</spring-context-version>
-	    <spring-security-crypto-version>3.1.0.RELEASE</spring-security-crypto-version>
+	    <spring-security-crypto-version>6.3.8</spring-security-crypto-version>
 	    <spring-security-core-version>4.0.4.RELEASE</spring-security-core-version>
 	    <spring-security-web-version>5.0.5.RELEASE</spring-security-web-version>
 	    <spring-security-config>3.2.0.RELEASE</spring-security-config>
